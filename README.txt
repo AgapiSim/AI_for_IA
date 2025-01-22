@@ -9,3 +9,5 @@ The present repository contains four documents:
     * Autoencoder_time_series_Grade_4_5.ipynb: The code for the second part of the assignment is based on the article Hands-on Time Series Anomaly Detection using Autoencoders, with Python by Piero Paialunga, 2024.his file in the form of a Jupyter Notebook or Google Colab.Alterations and additional code for plotting and further evaluation have been applied compared to the initial code presented in the article.
 
 All .ipynb files were created and run using Google Colab, in December 2024.
+
+__This project was part of the course Artificial Intelligence for Industrial Analytics, at Uppsala University and part of my Master's studies. It focuses on Intelligent Agents, Artificial Neural Networks (ANNs), and modern widely applicable numerical methods used to rapidly get close to the best solution for a given optimization task.__
